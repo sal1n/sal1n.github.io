@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Dungeon generation using a BSP Tree
-category: post
 ---
 
 Using a BSP Tree to generate a dungeon is surprisingly simple yet effective.

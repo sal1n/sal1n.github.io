@@ -1,5 +1,4 @@
 ---
-layout: default
-title: Pity this busy monster..
-category: poem
+layout: post
+title: Movember strikes!
 ---

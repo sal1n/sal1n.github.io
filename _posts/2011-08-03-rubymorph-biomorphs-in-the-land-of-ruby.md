@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Pity this busy monster..
-category: poem
+layout: post
+title: Rubmorph - Biomorphs in the land of Ruby
 ---
 
 I was playing around with Ruby using the Gosu graphics library a few weeks ago whilst waiting for our internet connection to be sorted and ended up kocking together a biomorph implementation in about 200 lines of code (and that was me being verbose, gotta love Ruby).

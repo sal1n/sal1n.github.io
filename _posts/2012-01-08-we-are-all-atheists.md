@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Pity this busy monster..
-category: poem
+layout: post
+title: We are all atheists
 ---
 
-“I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours.”
+"I contend that we are both atheists. I just believe in one fewer god than you do. When you understand why you dismiss all the other possible gods, you will understand why I dismiss yours."
 
-- Stephen Roberts
+**~ Stephen Roberts**

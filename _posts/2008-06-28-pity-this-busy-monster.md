@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pity this busy monster..
-category: poem
 ---
 
 "pity this busy monster, manunkind,

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Distance between two points on a torus
-category: post
 ---
 
 Looking for a really handy function to calculate the distance between 2 points on a torus?

@@ -1,7 +1,6 @@
 ---
-layout: default
-title: Pity this busy monster..
-category: poem
+layout: post
+title: My little pony Angband
 ---
 
 No really. Someone has forked Angband to make a My Little Pony variant – it’s called Anquestria.

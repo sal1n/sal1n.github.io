@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Love is more thicker than forget
-category: poem
 ---
 
 "love is more thicker than forget
