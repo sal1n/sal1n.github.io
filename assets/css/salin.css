@@ -173,7 +173,8 @@ h2 a:hover {
 
 .post {
     border-bottom: 2px solid rgba(78, 68, 60, 0.1);
-    padding-bottom: 1em;
+    padding-bottom: 2em;
+    padding-top: 1em;
 }
 
 .header {
