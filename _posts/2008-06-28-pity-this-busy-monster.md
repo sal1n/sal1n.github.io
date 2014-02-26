@@ -26,4 +26,4 @@ ultraomnipotence. We doctors know
 a hopeless case if — listen: there’s a hell
 of a good universe next door; let’s go”
 
-- E. E. Cummings
+**~ E. E. Cummings**
