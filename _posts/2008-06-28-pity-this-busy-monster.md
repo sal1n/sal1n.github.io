@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: post
 title: Pity this busy monster..
 category: poem
 ---
 
-“pity this busy monster, manunkind,
+"pity this busy monster, manunkind,
 
 not. Progress is a comfortable disease:
 your victim (death and life safely beyond)
@@ -24,6 +24,6 @@ this fine specimen of hypermagical
 ultraomnipotence. We doctors know
 
 a hopeless case if — listen: there’s a hell
-of a good universe next door; let’s go”
+of a good universe next door; let’s go"
 
 **~ E. E. Cummings**
