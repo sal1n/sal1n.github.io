@@ -8,7 +8,6 @@ Looking for a really handy function to calculate the distance between 2 points o
 
 Here is a simple C# implementation:
 
-{% highlight csharp %}
 public static double Distance(Point a, Point b, int size)
 {
     int x = Math.Abs(b.X - a.X);
@@ -22,4 +21,3 @@ public static double Distance(Point a, Point b, int size)
 
     return Math.Sqrt(minX + minY);
 }
-{% endhighlight %}
